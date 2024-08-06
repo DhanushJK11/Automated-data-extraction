@@ -1,7 +1,7 @@
 # Medical Data Extraction
 
 ## Project Objective
-The goal of this project is to automate the extraction of medical data from PDF documents. This includes targeting patient details and prescription information.
+The objective of this project is to automate the extraction of medical data from PDF documents, specifically focusing on patient details and prescription information. This automation could eliminate manual data entry entirely, achieving a 100% reduction in such tasks.
 
 ## Data Types
 - **Patient Details**: Information about patients extracted from the PDFs.
