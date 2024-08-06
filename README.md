@@ -38,6 +38,24 @@ By automating data extraction, we aim to speed up the process, facilitating fast
 ## Overall Goal
 Streamline the extraction process to enhance accuracy and efficiency in managing medical data, thereby reducing the time required for handling these tasks.
 
+## Core Skills
+- [x] Proficiency in ETL (Extract, Transform, Load) processes for efficient data handling.
+- [x] Expertise in using libraries such as `pdf2image` for converting PDF documents to images.
+- [x] Strong knowledge of image processing techniques using OpenCV to enhance image quality.
+- [x] Ability to implement OCR (Optical Character Recognition) with `pytesseract` to extract text from images.
+- [x] Proficient in using regular expressions (regex) for parsing and extracting relevant data from text.
+- [x] Experience in developing and executing test cases using `pytest` to ensure code quality and functionality.
+- [x] Familiarity with data modeling and integration into existing systems for seamless data flow.
+
+## Soft Skills
+- [x] Strong analytical skills to assess and derive insights from medical data.
+- [x] Excellent communication skills to convey technical information effectively to stakeholders.
+- [x] Attention to detail to ensure accuracy in data extraction and processing.
+- [x] Problem-solving abilities to identify challenges in the data extraction process and develop effective solutions.
+- [x] Adaptability to learn and implement new technologies and methodologies as needed.
+- [x] Collaboration skills to work effectively within a team and with cross-functional departments.
+- [x] Empathy in designing user-centric solutions that enhance user experience and satisfaction.
+
 ## Setup
 
 1. **Install Dependencies**: Run the following command to install required libraries:
