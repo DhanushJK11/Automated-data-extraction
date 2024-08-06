@@ -9,16 +9,24 @@ The objective of this project is to automate the extraction of medical data from
 
 ## Technology Utilization
 
-### Libraries
-We use various programming libraries designed for PDF parsing and data extraction:
-- **PyMuPDF**: For reading and extracting text from PDF files.
-- **pytesseract**: For optical character recognition (OCR) to handle scanned documents or images within PDFs.
-- **pandas**: For data handling and processing.
+## Libraries Required
 
-### Technologies
-- **PDF Parsing**: Extract text and data from PDF documents.
-- **OCR Processing**: Recognize text from images or scanned pages within PDFs.
+To automate the extraction of medical data from PDF documents, the following libraries are needed:
 
+1. **pdf2image**  
+   Converts PDF files into images for further processing.
+
+2. **OpenCV**  
+   A library for image processing tasks, such as cleaning images using adaptive thresholding techniques.
+
+3. **pytesseract**  
+   A wrapper for Google's Tesseract-OCR Engine, used for optical character recognition (OCR) to extract text from images.
+
+4. **regex** (or `re`)  
+   A library for using regular expressions to extract specific patterns and data from the extracted text.
+
+5. **pytest**  
+   A framework for writing and running tests to ensure code quality.
 ## Process Improvement
 
 ### Reduce Manual Effort
