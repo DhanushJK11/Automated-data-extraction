@@ -36,7 +36,7 @@ This project aims to minimize the need for manual data entry and review, automat
 By automating data extraction, we aim to speed up the process, facilitating faster access and analysis of medical data.
 
 ## Overall Goal
-Streamline the extraction process to improve accuracy and workflow in handling medical data.
+Streamline the extraction process to enhance accuracy and efficiency in managing medical data, thereby reducing the time required for handling these tasks.
 
 ## Setup
 
