@@ -39,12 +39,13 @@ By automating data extraction, we aim to speed up the process, facilitating fast
 Streamline the extraction process to enhance accuracy and efficiency in managing medical data, thereby reducing the time required for handling these tasks.
 
 ## Core Skills
-- [x] Proficiency in ETL (Extract, Transform, Load) processes for efficient data handling.
-- [x] Expertise in using libraries such as `pdf2image` for converting PDF documents to images.
-- [x] Strong knowledge of image processing techniques using OpenCV to enhance image quality.
-- [x] Ability to implement OCR (Optical Character Recognition) with `pytesseract` to extract text from images.
-- [x] Proficient in using regular expressions (regex) for parsing and extracting relevant data from text.
-- [x] Experience in developing and executing test cases using `pytest` to ensure code quality and functionality.
+- [x] Proficiency in **ETL (Extract, Transform, Load)** processes for efficient data handling.
+- [x] Expertise in using libraries such as **pdf2image** for converting PDF documents to images.
+- [x] Strong knowledge of **OpenCV (Open Source Computer Vision Library)** for image processing and enhancement.
+- [x] Ability to implement **Tesseract OCR** for Optical Character Recognition to extract text from images.
+- [x] Proficient in using **Python-tesseract**, a wrapper for Tesseract, to facilitate text extraction in Python.
+- [x] Skilled in applying **preprocessing techniques** to improve text detection and recognition, including binarization and noise removal.
+- [x] Experience in developing and executing test cases using **pytest** to ensure code quality and functionality.
 - [x] Familiarity with data modeling and integration into existing systems for seamless data flow.
 
 ## Soft Skills
